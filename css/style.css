@@ -40,7 +40,7 @@ h4 {
 .dubious {
   border: 1px solid #dd4444;
   background-color: #dd4444;
-  box-shadow:  -1px 1px rgb(168, 36, 39), -2px 2px #A9A9A9, -3px 3px #A9A9A9, -4px 4px #A9A9A9, -5px 5px #A9A9A9;
+  box-shadow:  -1px 1px rgb(168, 36, 39), -2px 2px rgb(168, 36, 39), -3px 3px rgb(168, 36, 39), -4px 4px rgb(168, 36, 39), -5px 5px rgb(168, 36, 39);
  }
 
 .column {
